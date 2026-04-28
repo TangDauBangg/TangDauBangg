@@ -15,8 +15,8 @@ If an idea for a simulation or a cool circuit pops into my head, chances are I'l
 - **Academic Focus:** Calculus, Linear Algebra, and Discrete Math.
 
 📫 **How to reach me:**
-- Email: [Insert your email here]
-- LinkedIn: [Insert your LinkedIn profile link]
+- Email: anhq00100@gmail.com
+- LinkedIn: https://www.linkedin.com/in/qu%C3%A2n-anh-487868217/
 
 ⚡ **Fun Facts & Hobbies:**
 - **Hobbies:** When I'm not coding or building circuits, I love reading books, playing basketball, and making music (I play both the piano and guitar!).
